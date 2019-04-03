@@ -1,0 +1,8 @@
+[submodule "simpleClient"]
+	path = simpleClient
+	url = https://github.com/g-bibek/simpleClient
+	branch = master
+[submodule "simpleApi"]
+	path = simpleApi
+	url = https://github.com/g-bibek/simpleApi
+	branch = master
