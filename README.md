@@ -11,7 +11,7 @@ Api Build Status
 
 ### Clone repository with submodules
 ```
-1. run git clone https://github.com/g-bibek/playground
+1. run 'git clone --recursive https://github.com/g-bibek/playground'
 2. switch to master branch of simpleClient and simpleApi
 3. Pull latest
 ```
@@ -28,7 +28,7 @@ Api Build Status
 1. Setup Node js and angular cli
 2. Navigate to playground/simpleClient
 3. Restore packages using npm or yarn
-4. run ng serve. The application is hosted at http://localhost:4200
+4. run 'ng serve'. The application is hosted at http://localhost:4200
 ```
 
 
